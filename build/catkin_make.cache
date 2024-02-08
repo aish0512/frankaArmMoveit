@@ -1,0 +1,2 @@
+moveit_tutorials:panda_moveit_config:pick_place_tutorial
+-DCATKIN_DEVEL_PREFIX=/home/aishwarya/Desktop/moveitFranka/devel -DCMAKE_INSTALL_PREFIX=/home/aishwarya/Desktop/moveitFranka/install -G Unix Makefiles
